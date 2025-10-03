@@ -1,0 +1,32 @@
+{
+  "sorunlar": {
+    "sarı yaprak": ["su eksikliği", "besin yetersizliği"],
+    "yaprağım sararıyor": ["su eksikliği", "besin yetersizliği"],
+    "yapraklar sarardı": ["su eksikliği", "besin yetersizliği"],
+    "yapraklarım sararmış": ["su eksikliği", "besin yetersizliği"],
+    "yapraklarda sararma": ["su eksikliği", "besin yetersizliği"],
+    "sararmış yaprak": ["su eksikliği", "besin yetersizliği"],
+    "sararma": ["su eksikliği", "besin yetersizliği"],
+    "kahverengi yaprak ucu": ["aşırı sulama", "fungal hastalık"],
+    "kahverengi leke": ["aşırı sulama", "fungal hastalık"],
+    "yapraklarda kahverengileşme": ["aşırı sulama", "fungal hastalık"],
+    "solma": ["su eksikliği", "sıcaklık stresi"],
+    "solma belirtisi": ["su eksikliği", "sıcaklık stresi"],
+    "solmuş yaprak": ["su eksikliği", "sıcaklık stresi"],
+    "solgun yaprak": ["su eksikliği", "sıcaklık stresi"],
+    "yaprak sarkması": ["su eksikliği", "sıcaklık stresi"],
+    "böcek": ["örümcek akarı", "yaprak biti"],
+    "yaprakta böcek": ["örümcek akarı", "yaprak biti"],
+    "bitki de haşere": ["örümcek akarı", "yaprak biti"],
+    "haşere": ["örümcek akarı", "yaprak biti"]
+  },
+  "bakim_onerileri": {
+    "su eksikliği": ["Bitkiyi düzenli sulayın, toprağın nemini kontrol edin"],
+    "besin yetersizliği": ["Bitki gübresi uygulayın"],
+    "aşırı sulama": ["Sulamayı azaltın, toprağın kurumasını bekleyin"],
+    "fungal hastalık": ["Hastalıklı yaprakları kesin, mantar ilacı kullanın"],
+    "sıcaklık stresi": ["Bitkiyi serin bir yere alın"],
+    "örümcek akarı": ["İlgili ilaçları kullanın, bitkiyi yıkayın"],
+    "yaprak biti": ["Bitkiyi ilaçlayın veya doğal böcek ilacı kullanın"]
+  }
+}
